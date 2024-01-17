@@ -8,3 +8,4 @@ for(let i = 1; i<= numeroMax; i++)
 }
 
 console.log('La suma de los números pares es: ' + suma);
+//
